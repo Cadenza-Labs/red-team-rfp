@@ -10,15 +10,8 @@ title: Red Team RFP — Lie Detection Competition
   <a href="https://ndif.us" target="_blank" rel="noopener">
     <img src="https://ndif.us/images/NDIF_Acr_color.png" alt="NDIF" style="height:48px;width:auto;" />
   </a>
-  <a href="https://cadenzalabs.org" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;text-decoration:none;">
-    <svg height="48" viewBox="0 0 210 52" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="Cadenza Labs">
-      <!-- rounded square icon -->
-      <rect x="0" y="2" width="48" height="48" rx="10" fill="#3d7fa0"/>
-      <!-- C letterform -->
-      <text x="24" y="36" font-family="Georgia, serif" font-size="30" font-weight="700" fill="white" text-anchor="middle">C</text>
-      <!-- wordmark -->
-      <text x="60" y="37" font-family="Georgia, serif" font-size="26" font-weight="600" fill="#3d7fa0">adenza Labs</text>
-    </svg>
+  <a href="https://cadenzalabs.org" target="_blank" rel="noopener">
+    <img src="/red-team-rfp/Cadenza_Logo.svg" alt="Cadenza Labs" style="height:48px;width:auto;" />
   </a>
 </div>
 
