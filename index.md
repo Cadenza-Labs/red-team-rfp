@@ -156,6 +156,10 @@ If a full implementation is the only barrier to applying, the organizers are ope
 
 **Contact for questions:** [competition@cadenzalabs.org](mailto:competition@cadenzalabs.org)
 
+<div style="margin:2rem 0;">
+  <iframe class="airtable-embed" src="https://airtable.com/embed/appJnG5RQbzQBKu9y/pagpqSTsmkbPXsjd0/form" frameborder="0" onmousewheel="" width="100%" height="900" style="background:transparent;border:1px solid #e0e0e0;border-radius:8px;"></iframe>
+</div>
+
 ---
 
 ## References
