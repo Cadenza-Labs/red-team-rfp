@@ -3,7 +3,17 @@ layout: default
 title: Red Team RFP — Lie Detection Competition
 ---
 
-# REQUEST FOR PROPOSALS
+<div style="display:flex;align-items:center;justify-content:center;gap:40px;padding:24px 0 32px;flex-wrap:wrap;border-bottom:1px solid #e0e0e0;margin-bottom:32px;">
+  <a href="https://www.schmidtsciences.org/" target="_blank" rel="noopener">
+    <img src="https://www.schmidtsciences.org/wp-content/themes/schmidt-sciences/src/images/logo.svg" alt="Schmidt Sciences" style="height:48px;width:auto;" />
+  </a>
+  <a href="https://ndif.us" target="_blank" rel="noopener">
+    <img src="https://ndif.us/images/NDIF_Acr_color.png" alt="NDIF" style="height:48px;width:auto;" />
+  </a>
+  <a href="https://cadenzalabs.org" target="_blank" rel="noopener">
+    <img src="https://github.com/Cadenza-Labs.png" alt="Cadenza Labs" style="height:48px;width:48px;border-radius:50%;" />
+  </a>
+</div>
 
 ## Red Team: Lie Detection Competition
 
