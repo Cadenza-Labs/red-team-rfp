@@ -21,6 +21,10 @@ title: Red Team RFP — Lie Detection Competition
 
 > **TL;DR** Submit a 2-page proposal describing your concept for creating datasets of on-policy LLM lies, along with your team's background, by March 31, 2026. Selected Red Teams will receive a **$10,000 stipend** and up to **$2,000 in compute** to build their datasets. Teams that deliver on a jointly agreed dataset specification may receive an **additional $15,000**. Co-authorship on the competition report is included.
 
+<div style="text-align:center;margin:1.5rem 0;">
+  <a href="https://airtable.com/appJnG5RQbzQBKu9y/pagpqSTsmkbPXsjd0/form" target="_blank" rel="noopener" style="display:inline-block;background:#1a3a6b;color:#fff;font-weight:600;font-size:1rem;padding:14px 36px;border-radius:8px;text-decoration:none;letter-spacing:0.01em;">Apply Now →</a>
+</div>
+
 ---
 
 ## 1. Competition Overview
@@ -156,8 +160,8 @@ If a full implementation is the only barrier to applying, the organizers are ope
 
 **Contact for questions:** [competition@cadenzalabs.org](mailto:competition@cadenzalabs.org)
 
-<div style="margin:2rem 0;">
-  <iframe class="airtable-embed" src="https://airtable.com/embed/appJnG5RQbzQBKu9y/pagpqSTsmkbPXsjd0/form" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc; border-radius: 8px;"></iframe>
+<div style="text-align:center;margin:2rem 0;">
+  <a href="https://airtable.com/appJnG5RQbzQBKu9y/pagpqSTsmkbPXsjd0/form" target="_blank" rel="noopener" style="display:inline-block;background:#1a3a6b;color:#fff;font-weight:600;font-size:1rem;padding:14px 36px;border-radius:8px;text-decoration:none;letter-spacing:0.01em;">Submit Your Proposal →</a>
 </div>
 
 ---
