@@ -11,7 +11,7 @@ title: Red Team: Lie Detection Competition — Request for Proposals
     <img src="https://ndif.us/images/NDIF_Acr_color.png" alt="NDIF" style="height:48px;width:auto;" />
   </a>
   <a href="https://cadenzalabs.org" target="_blank" rel="noopener">
-    <img src="/red-team-rfp/Cadenza_Logo.svg" alt="Cadenza Labs" style="height:48px;width:auto;" />
+    <img src="/red-team-rfp/Cadenza_Logo.svg" alt="Cadenza Labs" style="height:25px;width:auto;" />
   </a>
 </div>
 
