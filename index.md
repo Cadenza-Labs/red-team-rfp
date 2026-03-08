@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Red Team RFP — Lie Detection Competition
+title: Red Team — Lie Detection Competition
 ---
 
 <div style="display:flex;align-items:center;justify-content:center;gap:40px;padding:24px 0 32px;flex-wrap:wrap;border-bottom:1px solid #e0e0e0;margin-bottom:32px;">
