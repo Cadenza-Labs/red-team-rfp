@@ -17,7 +17,7 @@ title: Red Team: Lie Detection Competition — Request for Proposals
 
 ## Red Team: Lie Detection Competition — Request for Proposals
 
-**Published:** March 04, 2026 &nbsp;|&nbsp; **Proposals Due: March 31, 2026**
+**Proposals Due: March 31, 2026**
 
 > **TL;DR** Submit a 2-page proposal describing your concept for creating datasets of on-policy LLM lies, along with your team's background, by March 31, 2026. Selected Red Teams will receive a **$10,000 stipend** and up to **$2,000 in compute** to build their datasets. Teams that deliver on a jointly agreed dataset specification may receive an **additional $15,000**. Co-authorship on the competition report is included.
 
@@ -139,7 +139,7 @@ Upon **proposal acceptance (1)**, organizers and Red Teams will jointly agree on
 
 | Milestone | Date |
 |-----------|------|
-| RFP published | February 27, 2026 |
+| RFP published | March 9, 2026 |
 | Proposal decisions (rolling) | Deadline: March 31, 2026 (AoE) |
 | Codebase + report submission | June 15, 2026 |
 | Selection for final competition | June 30, 2026 |
