@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Red Team — Lie Detection Competition
+title: Red Team: Lie Detection Competition — Request for Proposals
 ---
 
 <div style="display:flex;align-items:center;justify-content:center;gap:40px;padding:24px 0 32px;flex-wrap:wrap;border-bottom:1px solid #e0e0e0;margin-bottom:32px;">
@@ -15,7 +15,7 @@ title: Red Team — Lie Detection Competition
   </a>
 </div>
 
-## Red Team: Lie Detection Competition
+## Red Team: Lie Detection Competition — Request for Proposals
 
 **Published:** March 04, 2026 &nbsp;|&nbsp; **Proposals Due: March 31, 2026**
 
