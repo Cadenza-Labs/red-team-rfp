@@ -77,6 +77,7 @@ Blue Teams will create general-purpose deception detectors, not dataset-specific
 ### Preferred Dataset Properties
 
 - **Difficulty:** Datasets that are difficult for existing baseline techniques, such as LLM-as-a-Judge, deception probes, or follow-up questions. For example, model organisms that have been adversarially trained are preferred.
+- **Redaction:** Datasets where transcripts can be shared with Blue Teams without redaction are preferred. If your model organism requires redaction to remain challenging (e.g., to prevent Blue Teams from detecting lies by inspecting the chain-of-thought), that is acceptable — but please flag this in your proposal.
 - **Realism:** Types of lies that could result from prosaic alignment are preferred over artificial settings. For example, a model lying because of emergent misalignment due to reward hacking is preferred over a model lying because it was fine-tuned to always say wrong things.
 - **Novelty:** Model organisms and types of lies created using novel techniques are preferred over reimplementations of existing work. For example, introspective lies, where a model lies about its own knowledge, are preferred over lies like "Paris is the capital of Italy" that are already part of existing datasets.
 
