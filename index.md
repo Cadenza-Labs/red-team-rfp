@@ -57,7 +57,7 @@ Red Teams create static datasets of on-policy LLM lies, similar in structure to 
 Blue Teams will create general-purpose deception detectors, not dataset-specific ones. They will have the following affordances:
 
 **What Blue Teams can do:**
-- Access full unredacted transcripts and activations from Red Team datasets
+- Access transcripts and activations from Red Team datasets (redacted if flagged by the Red Team)
 - Perform inference on the models used to generate the datasets
 - Do Activation steering and other interpretability techniques (using NNsight)
 - Access to a trusted model. The specific model will be announced by the start of the Red Team implementation phase (current candidate: Qwen3.5-27B).
