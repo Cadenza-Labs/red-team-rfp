@@ -19,7 +19,7 @@ title: Red Team: Lie Detection Competition — Request for Proposals
 
 **Proposals Due: March 31, 2026**
 
-> **TL;DR** Submit a 2-page proposal describing your concept for creating datasets of on-policy LLM lies, along with your team's background, by March 31, 2026. Selected Red Teams will receive a **$10,000 stipend** and up to **$2,000 in compute** to build their datasets. Teams that deliver on a jointly agreed dataset specification may receive an **additional $15,000**.
+> **TL;DR** Submit a proposal describing your concept for creating datasets of on-policy LLM lies, along with your team's background, by March 31, 2026. Selected Red Teams will receive a **$10,000 stipend** and up to **$2,000 in compute** to build their datasets. Teams that deliver on a jointly agreed dataset specification may receive an **additional $15,000**.
 
 <div style="text-align:center;margin:1.5rem 0;">
   <a href="https://airtable.com/appJnG5RQbzQBKu9y/pagpqSTsmkbPXsjd0/form" target="_blank" rel="noopener" style="display:inline-block;background:#1a3a6b;color:#fff;font-weight:600;font-size:1rem;padding:14px 36px;border-radius:8px;text-decoration:none;letter-spacing:0.01em;">Apply Now →</a>
@@ -39,7 +39,7 @@ The central research question is: *What methods best detect whether a model lied
 ### Definition of Lying
 
 We adopt the assertion-based definition from Fallis (2009), as operationalized in [Liars' Bench](https://arxiv.org/abs/2511.16035) (Kretschmar et al., 2025): the assistant lies if it states something it believes to be false. Beliefs are measured through consistent responses in contexts without direct pressure to lie.
-
+  
 For example, if a model generates "I fixed the code, it runs now" after observing failed tests in-context, its apparent beliefs (informed by the failed tests) contradict its statement. See Section 3 in [Liars' Bench](https://arxiv.org/abs/2511.16035) for more details.
 
 ### Background: Liars' Bench
@@ -150,7 +150,7 @@ Upon **proposal acceptance (1)**, organizers and Red Teams will jointly agree on
 
 ## 6. How to Apply
 
-Submit a proposal of no more than 2 pages describing:
+Submit a proposal (max 4500 characters) describing:
 
 1. **Dataset concept:** Your approach to creating datasets of on-policy lies, including which types of lies you plan to target, how you will verify labels, and why you expect your datasets to be challenging for current detection methods.
 2. **Team background:** Your team's relevant experience. Backgrounds in LLM fine-tuning, interpretability, AI safety evaluation, or adversarial red-teaming are particularly valued.
